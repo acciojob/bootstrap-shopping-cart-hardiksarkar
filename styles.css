@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #e3e3e3;
+}
+.summary{
+    background-color: #f7fbff;
+    height: 100vh;
+    border-top: 3px solid #5ea4f3;
+}
+.prod-head{
+    color: #5ea4f3;
+}
